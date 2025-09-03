@@ -11,8 +11,8 @@
 - Python (iniciante)
 
 ## 📂 Meus Projetos
-- [Projeto 1](https://github.com/seu-usuario/projeto1) – breve descrição do que o projeto faz  
-- [Projeto 2](https://github.com/seu-usuario/projeto2) – breve descrição do que você aprendeu  
+- [Projeto 1](https://github.com/H4is4nb4rg/html-css) – Alguns exercícios e aprimoramentos das minhas habilidades em HTML & CSS 
+- [Projeto 2]() – 
 
 ## 🌐 Onde me encontrar
 - [LinkedIn](https://www.linkedin.com/in/diego-pires-1b62aa32a/)  
